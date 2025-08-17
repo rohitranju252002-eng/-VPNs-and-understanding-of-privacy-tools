@@ -5,6 +5,7 @@
 ## 📌 Objective
 To install and test a free VPN service, verify its functionality, and analyze the benefits and limitations of VPN usage.
 
+
 ---
 
 ## 🛠 Steps Performed
@@ -14,22 +15,31 @@ To install and test a free VPN service, verify its functionality, and analyze th
 
 2. **Downloaded & Installed VPN Client**
    - Installed the official ProtonVPN application from [protonvpn.com](https://protonvpn.com).
-
+<img width="1920" height="1080" alt="v1" src="https://github.com/user-attachments/assets/4d853c4e-7dbd-4cab-9bb8-1ed0c92be1ae" />
 3. **Connected to a VPN Server**
    - Connected to the closest server for better performance.
+
+<img width="1920" height="1080" alt="v6" src="https://github.com/user-attachments/assets/5318c04b-d9ff-4dd4-b92a-9ba3ed25efba" />
+
 
 4. **Verified IP Address Change**
    - Before VPN: `103.xx.xx.xx` (original ISP IP).  
    - After VPN: `185.xx.xx.xx` (VPN server IP).  
    - Verified using [whatismyipaddress.com](https://whatismyipaddress.com).
 
+<img width="1920" height="918" alt="v3" src="https://github.com/user-attachments/assets/a3251615-97d5-442c-8214-32f7c556482c" />
+
 5. **Tested Encrypted Browsing**
    - Browsed multiple websites.  
    - Verified traffic encryption by checking HTTPS and VPN status icon.
 
+<img width="1920" height="929" alt="v4 with vpn" src="https://github.com/user-attachments/assets/3d21e8b5-38b5-4979-b467-316bed3f32f3" />
+
 6. **Disconnected & Compared Performance**
    - After disconnecting, IP reverted to original ISP address.  
    - Browsing speed was **slightly slower** while on VPN due to encryption overhead.
+
+<img width="1920" height="973" alt="v5 with out vpn" src="https://github.com/user-attachments/assets/bc60a51b-948c-4251-80c0-e51b788aa35d" />
 
 ---
 
